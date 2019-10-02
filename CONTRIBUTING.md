@@ -1,7 +1,7 @@
 # Contributing
 The 5 steps of contributing below :
 
-1. [Fork the repository](https://github.com/ogor-Developers/introduction-to-data/fork) & clone locally.
+1. [Fork the repository](https://github.com/Bogor-Developers/introduction-to-data/fork) & clone locally.
 2. Create your feature branch
 
     ```git checkout -b username/your-feature-name```
@@ -11,4 +11,4 @@ The 5 steps of contributing below :
 4. Push to your origin repository. 
 
     ```git push -u origin username/your-feature-name```
-5. Create a new [Pull Request](https://github.com/ogor-Developers/introduction-to-data/pulls).
+5. Create a new [Pull Request](https://github.com/Bogor-Developers/introduction-to-data/pulls).
